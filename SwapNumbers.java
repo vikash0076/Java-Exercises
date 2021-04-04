@@ -1,7 +1,6 @@
 public class SwapNumbers {
     public static void main(String args[]) {
         SwapNumbers obj = new SwapNumbers();
-        String a = System.console().readLine();
         obj.swapFirst(6,8);
         obj.swapSecond(6,8);
     }   
